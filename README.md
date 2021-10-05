@@ -6,7 +6,7 @@ Time spent: **8** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following **required** functionality is completed:Cancel changes
 
 - [x] User sees app icon in home screen and styled launch screen. (1pt)
 - [x] User can log in. (1pt)
@@ -23,8 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/a/TBKm4VF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/TBKm4VF" data-context="false" ><a href="//imgur.com/a/TBKm4VF"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 # Tweeting - Part II
 
