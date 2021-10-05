@@ -25,6 +25,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/zemingzhang1/Twitter_IOS/blob/main/Part1_Tweeting.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+
+
+
 # Tweeting - Part II
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
