@@ -2,6 +2,12 @@
 
 **Tweeting** is a basic twitter app to read your tweets.
 
+
+
+# Tweeting - Part II
+
+This is a basic twitter app to view, compose, favorite, and retweet tweets.
+
 Time spent: **8** hours spent in total
 
 ## User Stories
@@ -24,7 +30,6 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/zemingzhang1/Twitter_IOS/blob/main/Part1_Tweeting.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 
 
 
