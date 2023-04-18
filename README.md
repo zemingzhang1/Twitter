@@ -4,7 +4,7 @@
 
 
 
-# Tweeting - Part II
+# Tweeting - Part I
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
